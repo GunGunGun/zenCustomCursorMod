@@ -31,6 +31,10 @@
                 "value": "Cat"
             },
             {
+                "label": "HollowKnight",
+                "value": "HollowKnight"
+            },
+            {
                 "label": "Custom Cursor: Paste URL or Base64 using nimadez.github.io/base64/",
                 "value": "CustomCursor"
             }
